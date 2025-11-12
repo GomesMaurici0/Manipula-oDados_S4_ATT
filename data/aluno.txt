@@ -1,0 +1,7 @@
+6
+123 3 BCC 22 Camilla Borba
+234 3 BSI 25 Mauricio Oliveira
+976 3 BCC 24 Ronaldo Fenomeno
+723 3 BEC 23 Fulano de Tal
+555 3 GTI 26 Laura Martins
+666 3 ADS 27 Pedro Santos

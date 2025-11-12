@@ -68,3 +68,27 @@ Projeto_TC.exe     # Windows
 * GCC ou qualquer compilador C compatível.
 * Sistema operacional: Windows, Linux ou MacOS.
 
+## Autores 🧑‍💻
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Mauricio</b><br>
+      <a href="https://www.instagram.com/maugms/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <b>Lucas</b><br>
+      <a href="https://www.instagram.com/lczin_db/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <b>Matheus</b><br>
+      <a href="https://www.instagram.com/_0mlopes/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+  </tr>
+</table>
